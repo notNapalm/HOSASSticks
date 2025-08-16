@@ -62,7 +62,7 @@
     border-color: transparent;
 }
 
-/* This part makes up the background of the Yaw part */
+/* This part makes up the background of the Roll part */
 .custom .triggers{
     width: 129px;
     height: 20px;
@@ -80,7 +80,7 @@
     top: 125px
 }
 
-/* Here we position the title for the Yaw axis */
+/* Here we position the title for the Roll axis */
 .custom .triggers:after{
     content: "ROLL";
     display: inline-block;
