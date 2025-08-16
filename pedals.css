@@ -82,7 +82,7 @@
 
 /* Here we position the title for the Roll axis */
 .custom .triggers:after{
-    content: "YAW";
+    content: "ROLL";
     display: inline-block;
     position: absolute;
     font-size: 14px;
